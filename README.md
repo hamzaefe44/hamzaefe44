@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **cyber security,red team and blue team**
 
-- 🌱 I’m currently learning **Cyber security, blue team and red team.**
+- 🌱 I’m currently learning **Cyber security**
 
 - 🤝 I’m looking for a job as a **soc analyst**
 
