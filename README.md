@@ -3,17 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/hamzaefe44" target="blank"><img src="https://img.shields.io/twitter/follow/hamzaefe44?logo=twitter&style=for-the-badge" alt="hamzaefe44" /></a> </p>
 
-- 🔭 I’m currently working on **SAP/ABAP ERP solutions**
+- 🔭 I’m currently working on **cyber security,red team and blue team**
 
-- 🌱 I’m currently learning **ABAP-FIORI**
+- 🌱 I’m currently learning **Cyber security, blue team and red team.**
+
+- 🤝 I’m looking for a job as a **soc analyst**
 
 - 📝 I regularly write articles on [https://hamzaefe44.medium.com/](https://hamzaefe44.medium.com/)
 
-- 📫 How to reach me **hamzaefedev@gmail.com**
+- 📫 How to reach me **hamzaefe44@hotmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [NETWORK SERVİSLERİ](https://hamzaefe44.medium.com/network-servi%CC%87sleri%CC%87-720ed1535bfc?source=rss-1b4cd909f664------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -25,9 +26,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaefe44&show_icons=true&locale=en&layout=compact" alt="hamzaefe44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaefe44&show_icons=true&locale=en&layout=compact" alt="hamzaefe44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaefe44&show_icons=true&locale=en" alt="hamzaefe44" /></p>
 
