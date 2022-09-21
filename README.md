@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/hamzaefe44" target="blank"><img src="https://img.shields.io/twitter/follow/hamzaefe44?logo=twitter&style=for-the-badge" alt="hamzaefe44" /></a> </p>
 
-- 🔭 I’m currently working on **cyber security,red team and blue team**
+- 🔭 I’m currently working on **SAP/ABAP And ERP Solutions**
 
-- 🌱 I’m currently learning **Cyber security, blue team and red team.**
-
-- 🤝 I’m looking for a job as a **soc analyst**
+- 🌱 I’m currently learning **SAP/ABAP-FIORI**
 
 - 📝 I regularly write articles on [https://hamzaefe44.medium.com/](https://hamzaefe44.medium.com/)
 
