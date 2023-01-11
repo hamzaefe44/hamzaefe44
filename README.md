@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://hamzaefe44.medium.com/](https://hamzaefe44.medium.com/)
 
-- 📫 How to reach me **hamzaefe44@hotmail.com**
+- 📫 How to reach me **hamzaefedev@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
